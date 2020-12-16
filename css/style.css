@@ -42,7 +42,8 @@ h1
   margin-inline-end: 0px;}
 
 h2
-{ font: bold 22pt Calibri, Helvetica, sans-serif;
+{ display: block;
+  font: bold 22pt Calibri, Helvetica, sans-serif;
   color: black; 
   padding: 10px 0 10px 0;
   margin-block-start: 0px;
@@ -102,7 +103,7 @@ ol li
   
 header
 { height: 150px;
-  background: rgb(39, 49, 126);
+  background: rgb(181, 19, 67);
   /*background: -moz-linear-gradient(white, rgb(138, 159, 177));
   background: -o-linear-gradient(white, rgb(138, 159, 177));
   background: -webkit-linear-gradient(white, rgb(138, 159, 177));*/}
@@ -164,7 +165,7 @@ ul#nav li a, li.current a
 ul#nav li:hover a
 {
   color: whitesmoke;
-  background: rgb(39, 49, 126);
+  background: rgb(181, 19, 67);
   /*background: -moz-linear-gradient(rgb(37, 18, 199), rgb(26, 18, 153));
   background: -o-linear-gradient(rgb(37, 18, 199), rgb(26, 18, 153));
   background: -webkit-linear-gradient(rgb(37, 18, 199), rgb(26, 18, 153));*/
@@ -303,17 +304,17 @@ ul img
 { display: flex;
   width: 300px;
   padding: 10px;
-  height: 150px;
+  height: 240px;
   float: left; }
 
 /* for the explanation on the people page*/
 .content_container3
 { display: block;
   width: 1000px;
-  height: 150px;
+  height: 240px;
   padding: 10px;
   font-size: 14pt; 
-  line-height: 150px;}
+  line-height: 240px;}
 
 .valign
 { display: inline-block;
@@ -351,7 +352,7 @@ footer
   font-weight: bold;
   text-align: center;
   color: whitesmoke;
-  background: rgb(39, 49, 126);
+  background: rgb(181, 19, 67);
   /*background: -moz-linear-gradient(white, whitesmoke);
   background: -o-linear-gradient(white, whitesmoke);
   background: -webkit-linear-gradient(white, whitesmoke);*/}
@@ -381,7 +382,7 @@ footer a:hover
   float: left;
   height: 15px;
   padding: 2px 10px 8px 10px;
-  background: rgb(39, 49, 126);
+  background: rgb(181, 19, 67);
   /*background: -moz-linear-gradient(rgb(37, 18, 199), rgb(26, 18, 153));
   background: -o-linear-gradient(rgb(37, 18, 199), rgb(26, 18, 153));
   background: -webkit-linear-gradient(rgb(37, 18, 199), rgb(26, 18, 153));
