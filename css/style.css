@@ -173,21 +173,21 @@ ul#nav li:hover a
   text-shadow: none;
 }
 
+/* styling for the slideshow on the homepage */
 #slideshow_container
-{ height: 270px;
+{ height: 620px;
   background: whitesmoke;
   padding-top: 20px;}
   
 .slideshow
-{ width: 1000px;
-  height: 250px;
+{ width: 800px;
+  height: 600px;
   margin: 0 auto;}  
-  
-/* styling for the slideshow on the homepage */
+
 ul.slideshow 
 { list-style: none;
-  width: 1000px;
-  height: 250px;
+  width: 800px;
+  height: 600px;
   overflow: hidden;
   position: relative;}
   
@@ -205,7 +205,7 @@ ul img
 { border: none;}
  
 #slideshow-caption 
-{ width: 1000px;
+{ width: 800px;
   height: 45px;
   position: absolute;
   bottom: 0;
