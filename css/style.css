@@ -54,7 +54,8 @@ h2
 
 h3
 { font: bold 18pt Calibri, sans-serif;
-  padding: 10px 0;}
+  padding: 10px 0;
+  clear: both;}
 
 h4
 { margin: 0;
@@ -299,7 +300,7 @@ ul img
 .content_containerY_2
 { margin: 20px;}
 
-/* for the logo on the people page*/
+/* for the photo on the people page*/
 .content_container2
 { display: flex;
   width: 300px;
@@ -321,6 +322,21 @@ ul img
   vertical-align: middle;
   line-height: 24px;
 }
+
+.content_container_people
+{ width: 240px;
+  padding: 5px;
+  font-size: 14pt; 
+  float: left;
+  clear: both;
+}
+
+.content_container_people2
+{ display: flex;
+  width: 200px;
+  padding: 10px;
+  height: 240px;
+  float: left; }
 
 /* for the honors and awards on the people page*/
 .content_container4
